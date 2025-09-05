@@ -44,13 +44,13 @@ Go to your Cloudflare console > Manage Account > Account API tokens:
 Go to Compute (Workers) > cloudflare-realtime-agents > Settings > Variables and Secrets:
 Now set your worker's environment variables names and values:
 ACCOUNT_ID
-- Get from Cloudflare Account home, select 3 dots next to account home name, select copy account ID
+  - Get from Cloudflare Account home, select 3 dots next to account home name, select copy account ID
 API_TOKEN
-- What we created previously
+  - What we created previously
 DEEPGRAM_API_KEY
-- Get from deepgram.com
+  - Get from deepgram.com
 ELEVENLABS_API_KEY
-- Get from elevenlabs.io
+  - Get from elevenlabs.io
 
 ### Setup Realtime Meeting
 In Cloudflare console, go to Realtime > Go to RealtimeKit Dashboard > Presets:
@@ -73,7 +73,7 @@ Now go back to the browser tab where you joined the meeting. You should see the 
 
 
 ## Community
-If you found this useful, join my free AI builders community: [Discord](https://discord.gg/v6nj7dShND)
+Join my free AI builders community: [Discord](https://discord.gg/v6nj7dShND)
 
 
 
