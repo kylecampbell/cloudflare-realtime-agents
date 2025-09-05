@@ -43,13 +43,13 @@ Go to your Cloudflare console > Manage Account > Account API tokens:
 #### Set environment variables
 Go to Compute (Workers) > cloudflare-realtime-agents > Settings > Variables and Secrets:
 Now set your worker's environment variables names and values:
-ACCOUNT_ID
+- ACCOUNT_ID
   - Get from Cloudflare Account home, select 3 dots next to account home name, select copy account ID
-API_TOKEN
+- API_TOKEN
   - What we created previously
-DEEPGRAM_API_KEY
+- DEEPGRAM_API_KEY
   - Get from deepgram.com
-ELEVENLABS_API_KEY
+- ELEVENLABS_API_KEY
   - Get from elevenlabs.io
 
 ### Setup Realtime Meeting
